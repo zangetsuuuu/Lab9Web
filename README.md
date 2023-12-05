@@ -37,7 +37,7 @@
 
 ### Langkah-Langkah Pratikum
 
-- Buat file baru dengan nama `header.php`, `footer.php`, `home.php`, `about.php`
+- Buat file baru dengan nama *header.php*, *footer.php*, *home.php*, *about.php*
 
 ```html
 <!-- header.php -->
